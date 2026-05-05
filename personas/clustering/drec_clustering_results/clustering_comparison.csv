@@ -1,0 +1,23 @@
+user_id,kmeans_cluster,hierarchical_cluster,hdbscan_cluster,final_persona
+0,0,1,0,Persona 1
+1,0,1,0,Persona 1
+2,1,0,-1,Persona 2
+3,0,1,0,Persona 1
+4,1,0,0,Persona 2
+5,1,0,0,Persona 2
+6,0,1,0,Persona 1
+7,1,0,1,Persona 2
+8,1,0,-1,Persona 2
+9,1,0,-1,Persona 2
+10,0,1,0,Persona 1
+11,0,1,0,Persona 1
+12,1,0,1,Persona 2
+13,0,1,0,Persona 1
+14,0,1,0,Persona 1
+15,0,1,0,Persona 1
+16,0,1,0,Persona 1
+17,0,1,0,Persona 1
+18,1,1,0,Persona 2
+19,0,1,0,Persona 1
+20,1,0,1,Persona 2
+21,1,0,-1,Persona 2

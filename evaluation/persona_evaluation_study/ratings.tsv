@@ -1,0 +1,257 @@
+Participant_ID	Hypothesis	Persona	Explanation_A	Explanation_B	Rex_Relevance	Rex_Completeness	Rex_Conv_Completeness	Rex_Validity	Persona_Relevance	Persona_Completeness	Persona_Conv_Completeness	Persona_Validity	Explanation_Choice	Conv_Choice	Justification
+jaG0bJE	H1	Leo	Rex	Leo	5	4	3	5	4	3	5	4	A	Rex	Incorporation of more comparative information alongside structurally related compounds.
+RG8jBkK	H1	Leo	Rex	Leo	2	5	1	4	4	3	5	4	B	Leo	"Graph B is easier to understand and more streamlied. Text B also described the graph accurately.
+ Graph A seems to have loose ends with less relevant information"
+GxY7xlz	H1	Leo	Rex	Leo	3	2	3	2	4	3	5	4	B	Leo	I prefer explanation B because it does not include the relationship between the psychotic side effect and the appetite suppression effect. The phrase “This relationship highlights its role in appetite suppression” makes it seem that causing psychosis is what causes the anorexic effect, which leaves the mechanism of this effect unclear. While in B, it is a clearer explanation when it refers to the increase in sympathetic activity.
+7R4P2W2	H1	Leo	Rex	Leo	5	5	1	4	5	3	5	4	B	Leo	The first explanation is too complex. I prefer the 2nd option because it informs just enough.
+1AG5kRg	H1	Leo	Rex	Leo	4	5	1	5	2	1	1	2	A	Rex	Although explanation A is overly detailed and complex, explanation B is too basic, failing to provide all the information necessary to understand the problem
+VLoAdx6	H1	Leo	Rex	Leo	4	5	1	5	5	3	5	5	B	Leo	"Explanation A is too complex, as it considers a lot of similar drugs with the same target that are supposed to be connected but the links are sometimes confusing compared to the text explanation (methamphetamine is not associated with phendimetrazine in the graph).
+ Explanation B is more simple and I consider it enough for understanding the hyphothesis. I would prefer a mix of the two explanations, with more examples in explanation B but more simply demonstrated in the graph (than in explanation A), but overall I prefer explanation B."
+OD8erxa	H1	Leo	Rex	Leo	3	5	1	4	5	3	5	5	B	Leo	Explanation B is more concise while retaining the essential components needed to conclude that our hypothesis is correct. Both explanations are valid, but Hypothesis A is overly complex and harder to follow, especially in its written form. It feels unnecessarily complicated, includes irrelevant sentences, and obscures the logical chain of thought leading to the conclusion our hypothesis proposes.
+rj2RGXo	H1	Leo	Rex	Leo	4	5	1	5	4	3	5	4	B	Leo	Explanation A is too verbose and includes details that are not fundamental for understanding the main benzphetamine concept.
+rj2zk8L	H1	Leo	Rex	Leo	3	2	3	3	4	3	5	4	B	Leo	The logical graph for Explanation A, although it includes more information about other substances related to the hypothesis, it is more overwhelming to look at and confusing overall. On the other hand, the connections in the logical graph for Explanation B are more straightforward.
+aQKNQzy	H1	Leo	Rex	Leo	4	4	3	5	5	3	5	5	B	Leo	The second explanation is stronger because it directly connects Benzphetamine’s classification and mechanism (sympathetic activity, anorexiant effect) to obesity treatment. It is more focused and clinically relevant, while the first explanation is slightly diluted by unrelated details
+aQKN9NB	H1	Leo	Rex	Leo	4	5	1	4	4	2	3	3	B	Leo	I find Explanation A, particularly the graph, too complex. Explanation B, although simple, explains the main idea and high-level logic behind it pretty nicely.
+PdvD761	H1	Leo	Rex	Leo	5	3	5	4	2	1	1	4	A	Rex	The B option, provides a simplistic approach to the issue! A provides comparatives of other compounds of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing.
+jaG0bJE	H2	Leo	Leo	Rex	1	5	1	1	5	2	3	3	A	Leo	The model B includes less relevant information.
+RG8jBkK	H2	Leo	Leo	Rex	2	5	1	2	3	3	5	3	A	Leo	"The inclusion of Olmesartan in explanation B is confusing and doesn't seem to add any value to the explanation.
+ Explanation A is generally better. The graph could have an extra layer/level since the text links ""fibrate antilipidemic agents"" to ""the broader class of aromatic ethers""."
+GxY7xlz	H2	Leo	Leo	Rex	2	2	3	2	4	3	5	4	A	Leo	Explanation A compares two pharmacological compounds from the same pharmacological classes, which makes it easier to understand the hypothesis, compared to explanation B. In explanation B, the graph does not make it possible to understand the connection between fenofibrate and olmesartan, and the text only refers to olmesartan as another drug for the treatment of coronary heart disease, which makes it confusing.
+7R4P2W2	H2	Leo	Leo	Rex	4	3	5	5	4	5	1	4	B	Rex	The second choice gives enough without being too much information.
+1AG5kRg	H2	Leo	Leo	Rex	5	3	5	5	2	5	1	2	B	Rex	"A- the language of the explanation is too complex.
+ B- meets the intended purpose"
+VLoAdx6	H2	Leo	Leo	Rex	5	3	5	5	4	2	3	5	B	Rex	I think explanation B is more complete without being too complex/confusing. Explanation B includes another drug from a different group, that also shares a relationship to fenofibrate, providing more information and support for the drug chosen for repurposing. In this case I also consider the shared side effect to be relevant.
+OD8erxa	H2	Leo	Leo	Rex	4	4	3	4	5	2	3	4	A	Leo	"Explanation A is preferred because it better highlights the relationship between a compound used to treat the disease. Both explanations identify the key link that gemfibrozil is in the same pharmaceutical class as fenofibrate, but Explanation A is more compelling as it shows they actually share two pharmaceutical classes.
+ Explanation B also makes a valuable point by noting that fenofibrate belongs to the same class of compounds as olmesartan, another drug used to treat the underlying disease. This would have been a strong addition to Explanation A. However, Explanation B is difficult to follow due to its convoluted writing style and inclusion of unnecessary details, such has unrelated side effects. As a result, it feels overly complex while still missing the most important links.
+ TLDR: Both explanations miss some key connections. B is worse because it omits a more significant link, adds unnecessary information, and is harder to read."
+rj2RGXo	H2	Leo	Leo	Rex	4	5	1	5	4	3	5	4	A	Leo	Explanation A contains, in my opinion, the most relevant information. While there are no indication concerning the side effects, I found the explanation simpler and, at the same time, complete.
+rj2zk8L	H2	Leo	Leo	Rex	3	4	3	3	4	2	3	3	A	Leo	Explanation A seemed to showcase the relationship between fenofibrate and gemfibrozil in a much smoother and clearer way.
+aQKNQzy	H2	Leo	Leo	Rex	4	3	5	4	5	3	5	5	A	Leo	Explanation A is preferred because it provides a clear and scientifically accurate pathway from Fenofibrate to coronary artery disease through PPAR-α and lipid metabolism. Explanation B is less focused and introduces weaker or less relevant links (intestinal side effects, Olmesartan)
+aQKN9NB	H2	Leo	Leo	Rex	4	4	3	4	3	3	5	3	B	Rex	Although a bit more complex, it illustrates the connection and includes a second drug to reinforce it.
+PdvD761	H2	Leo	Leo	Rex	2	4	3	4	4	3	5	5	A	Leo	The B option, provides a unnecessarily complex explanation! The comparison to olimesartan i think does not add much relevant information. Option A provides comparatives of other compound of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing. In this case due to the high similarity i feel more comparison are just extras and this is sufficient.
+jaG0bJE	H3	Leo	Leo	Rex	4	5	1	4	4	3	5	5	A	Leo	The data from Model A highlights the structural analogy of the compounds, providing a solid basis for the conclusions.
+RG8jBkK	H3	Leo	Leo	Rex	3	3	5	4	4	4	3	5	A	Leo	"Explanation A rates higher in validity because it connects Cholecalciferol to 2 compounds used for Psoriasis treatment (Calcitriol and Calcipotriol). Text A is nearly perfect but does not accurately narrate the graph.
+ Explanation A graph seems too extensive and confusing."
+GxY7xlz	H3	Leo	Leo	Rex	4	3	5	4	4	4	3	4	A	Leo	Explanation A is a little more complete because it gives two examples of compounds derived from vitamin D already used for the treatment of psoriasis, emphasizing the relevance that cholecalciferol may also have for the treatment of psoriasis.
+7R4P2W2	H3	Leo	Leo	Rex	4	3	5	4	4	5	1	4	B	Rex	Like the previous examples, the second explanation is more concise and straight to the point while remaining informative and relevant. Also the first explanation uses complex words to explain and give the same information the second explanation gives, while the second explanation uses more simpler words and phrasing.
+1AG5kRg	H3	Leo	Leo	Rex	4	3	5	4	5	3	5	5	A	Leo	A and B provide similar explanations but, in my opinion, A is more clear
+VLoAdx6	H3	Leo	Leo	Rex	5	3	5	4	5	4	3	5	B	Rex	This was a difficult choice. Although explanation A is more complete without being overwhelming, the extra information it provides can be considered redundant and doesn't necessarily add further help for prioritizing the candidate. I've chosen B because its a good overview and it contains all relevant information (graph and explanation) to make a choice.
+OD8erxa	H3	Leo	Leo	Rex	5	3	5	5	4	5	1	5	B	Rex	Explanation B contains just the right amount of information and provides a clearer, more well-founded connection between the disease and the drug. In contrast, Explanation A takes a more convoluted route to reach a similar conclusion and is less compelling, as it relies on two compounds to demonstrate what Explanation B achieves with a single, directly related compound.
+rj2RGXo	H3	Leo	Leo	Rex	5	4	3	5	5	5	1	5	B	Rex	In this case, explanation B provides the most relevant information without being too verbose. On the contrary, while explanation A is more richer, it has some information that are not fundamental to understand the relation between cholecalciferol and psoriasis.
+rj2zk8L	H3	Leo	Leo	Rex	4	3	5	4	2	4	3	3	B	Rex	Explanation A just seemed to throw the names of other compounds out of nowhere, even though they showed some relevance to the topic, whereas Explanation B introduces new concepts and more logically, and it is easier to understand how they interlink.
+aQKNQzy	H3	Leo	Leo	Rex	4	3	5	4	4	4	3	4	B	Rex	Explanation A maybe preferred by some, because it provides a broader and more accurate overview of Vitamin D analogs and their therapeutic use in psoriasis. Explanation B is scientifically sound and more direct in scope .
+aQKN9NB	H3	Leo	Leo	Rex	3	2	3	2	5	4	3	5	A	Leo	I find Explanation B too simple.
+PdvD761	H3	Leo	Leo	Rex	4	2	3	4	5	3	5	4	A	Leo	"The B option, provides a simplistic approach to the issue! A provides comparatives of other compounds (more than one) of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing.
+ 
+ In this case the D3 ancestry seems more relevant than secondary alcohol."
+jaG0bJE	H4	Leo	Rex	Leo	5	2	3	4	3	2	3	1	A	Rex	Model B: Mostly true, but not all dihydropyridines are exclusively for hypertension
+RG8jBkK	H4	Leo	Rex	Leo	5	3	5	5	3	4	3	4	A	Rex	Explanation A accurately conveys the hypothesis but could use better wording (namely: ... a condition that can be influenced...)
+GxY7xlz	H4	Leo	Rex	Leo	3	4	3	4	4	4	3	4	B	Leo	I prefer explanation B because it ignores the secondary effect of Nicardipine, which is influenced by Fenoldopam, as it is not relevant to understanding this hypothesis. In explanation B, it is easier to understand the correlation between the compounds because all three are from the same pharmacological class, calcium channel blockers. The gray box for calcium channel blockers could be pink, as it makes perfect sense to mention it.
+7R4P2W2	H4	Leo	Rex	Leo	5	3	5	4	4	4	3	4	A	Rex	I like both A and B except for the last paragraph of explanation B, which is too complex and uses over complicated words.
+1AG5kRg	H4	Leo	Rex	Leo	2	2	3	3	5	3	5	5	B	Leo	The language is much more clear in explanation B
+VLoAdx6	H4	Leo	Rex	Leo	5	3	5	5	4	5	1	5	A	Rex	Explanation A is more simple and has every detail necessary to make a decision, although I prefered the text explanation in B. I liked the variety of examples in explanation B but I think the graph is too complex because of the number of edges, although I prefered this text explanation (B over A)
+OD8erxa	H4	Leo	Rex	Leo	5	3	5	5	4	4	3	4	A	Rex	"Explanation A provides a clear and logically sound path to the conclusion, with stronger connections and even a meaningful causal relationship. While Explanation B is also strong, it is slightly more convoluted. Textually, B is clearer and tells a more compelling story, but overall, A offers a more relevant and persuasive explanation.
+ 
+ While A is still a good explanations has weaker links to reach the same conclusion, focasing"
+rj2RGXo	H4	Leo	Rex	Leo	4	4	3	3	4	4	3	4	B	Leo	In this case, explanation B looks more clear. In particular, despite explanation A being rich of information, it does not clearly state the most relevant information: the fact that Nicardipine treats hypertension.
+rj2zk8L	H4	Leo	Rex	Leo	4	2	3	3	4	3	5	4	B	Leo	Overall, Explanation B seems a lot more complete
+aQKNQzy	H4	Leo	Rex	Leo	4	3	5	3	5	3	5	5	B	Leo	Explanation B is preferred because it provides a clear, accurate, and focused account of Nicardipine and related dihydropyridines in hypertension treatment. Explanation A includes inaccuracies (Fenoldopam, T wave inversion) that reduce its validity.
+aQKN9NB	H4	Leo	Rex	Leo	2	1	1	2	4	3	5	4	B	Leo	I find Explanation B to be complete, even with a more complex graph.
+PdvD761	H4	Leo	Rex	Leo	4	3	5	3	5	3	5	5	B	Leo	"Both options provide a some what similar rational! However B provides comparatives of other compounds of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing.
+ 
+ Option A provides a single comparison based on characteristics/effects/mechanisms and the 'causes' relation does not provide a direct causal relation."
+jaG0bJE	H5	Leo	Leo	Rex	4	4	3	3	3	2	3	5	A	Leo	Model B: overstatement of the Etidronic acid's role
+RG8jBkK	H5	Leo	Leo	Rex	4	3	5	5	4	2	3	2	B	Rex	"Explanation A merely links Etidronic Acid to Tiludronate and highlights their connection in classification/analogy.
+ Explanation B graph is nearly perfect. Text B introduces or references concepts of the graph with mismatched language making it more difficult to follow."
+GxY7xlz	H5	Leo	Leo	Rex	3	4	3	4	4	4	3	4	A	Leo	I prefer A because it excludes the side effects of etidronic acid, as I do not consider this relevant to understanding the hypothesis.
+7R4P2W2	H5	Leo	Leo	Rex	4	4	3	4	4	4	3	4	B	Rex	Both explanations are a bit too complex for my preference but the second one is still more straight to the point and the information flows better.
+1AG5kRg	H5	Leo	Leo	Rex	5	3	5	5	3	3	5	3	B	Rex	B is more clear
+VLoAdx6	H5	Leo	Leo	Rex	4	4	3	5	5	3	5	5	A	Leo	The information in explanation A is more than enough for the decision, although B is complete, valid and not overwhelming in complexity. The text explanation A accompanying the graph is more insightful.
+OD8erxa	H5	Leo	Leo	Rex	5	3	5	5	4	2	3	4	B	Rex	Explanation B offers a more complete explanation, presenting multiple important links between the drug and the disease, including a key causal connection that A overlooks. In contrast, A focuses on weaker ancestral links that are less significant. While A is somewhat clearer to follow textually, its arguments are ultimately weaker.
+rj2RGXo	H5	Leo	Leo	Rex	5	3	5	4	4	3	5	5	A	Leo	In this case, explanation A is my preference. While the explanation misses the side effects, explanation B looks too complex and, from my understanding, I have some doubts on the validity of the model's explanation.
+rj2zk8L	H5	Leo	Leo	Rex	3	4	3	5	5	3	5	4	A	Leo	Explanation A had more details relevant to etidronic acid
+aQKNQzy	H5	Leo	Leo	Rex	5	3	5	4	4	3	5	4	B	Rex	Explanation B is preferred because it more directly links Etidronic Acid to related bisphosphonates (Risedronate, Tiludronate) and their treatment of Paget’s disease, while also noting relevant clinical side effects. Explanation A is scientifically correct but less focused on the therapeutic relevance.
+aQKN9NB	H5	Leo	Leo	Rex	3	3	5	3	3	4	3	4	B	Rex	Explanation B provides a concise explanation with a more complex graph.
+PdvD761	H5	Leo	Leo	Rex	4	2	3	4	5	2	3	4	A	Leo	"The B option, provides an approach that in my view is also valid! Option A however provides comparatives of another compound of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing.
+ 
+ Option B despite also very valid, the side effect is collected via a very general ancestor 'molecular entity'"
+jaG0bJE	H6	Leo	Rex	Leo	1	1	1	1	5	3	5	4	B	Leo	Model A: connections between carbamazepine and diazepam/phenytoin are too vague or simple to extract any conclusions.
+RG8jBkK	H6	Leo	Rex	Leo	3	2	3	4	5	3	5	5	B	Leo	"Explanation B uses 3 connections to link Phenytoin to Carbamazepine and ultimately to Epilepsy Syndrome treatment. These connections seem relevant and valid.
+ Explanation A is hard to judge because either the graph is too complex with superfluous information regarding Diazepam or the text is too simple and does not elaborate enough on the link between Diazepam and Carbamazepine."
+GxY7xlz	H6	Leo	Rex	Leo	2	2	3	2	2	2	3	2	B	Leo	I prefer B because it does not mention the side effect of rage, which in this case is not necessary to interpret the hypothesis. However, I also consider B to be incomplete because it could mention that the two pharmacological compounds have a similar mechanism of action as they are sodium channel blockers. I do not think it is relevant in this case to mention that they are from the same group because, for example, Rifampicin, an antibiotic, is also an inducer of cytochrome P450 CYP 1A2, but its mechanism of action and therapeutic effect have nothing to do with carbamazepine and phenytoin.
+7R4P2W2	H6	Leo	Rex	Leo	5	3	5	4	4	5	1	4	A	Rex	It's more simple but still informative. The second explanation uses too many fill words.
+1AG5kRg	H6	Leo	Rex	Leo	2	2	3	2	5	3	5	5	B	Leo	The language used in B is more clear
+VLoAdx6	H6	Leo	Rex	Leo	4	4	3	4	4	2	3	5	B	Leo	I consider that explanation A offers unnecessary information and the text explanation hasn't convinced me to prioritize the candidate for repurposing. Explanation B is very simple, could have more examples of compounds, but is sufficient to understand carbamazepine can be a good candidate.
+OD8erxa	H6	Leo	Rex	Leo	3	5	1	3	5	3	5	5	B	Leo	Explanation B offers a simple yet more compelling argument, while A is unnecessarily complex, presenting causal relationships of limited significance and overly broad links, such as “Agent Affecting Nervous System,” when “Anticonvulsant Agent” alone is sufficient to infer that connection. Textually, B is much easier to follow and presents a clear chain of thought.
+rj2RGXo	H6	Leo	Rex	Leo	3	2	3	2	4	4	3	4	B	Leo	Explanation A looks too complex and, ant the same time, omits key aspects such as carbamazepine's main therapeutic uses. Moreover, I some some doubt concerning the link with rage. Explanation B looks simpler and more relevant.
+rj2zk8L	H6	Leo	Rex	Leo	3	2	3	5	4	3	5	5	B	Leo	Although it is important to mention serious side effects in drugs such as rage, I felt like the way that was discussed in Explanation A was a bit out of place, while Explanation B stays more focused on the hypothesis and gives more detail on the role of carbamazepine in the treatment of epilepsy
+aQKNQzy	H6	Leo	Rex	Leo	4	3	5	3	5	3	5	4	B	Leo	Explanation B is preferred because it provides a clear, accurate, and focused account of Carbamazepine’s role as an anticonvulsant in epilepsy treatment. Explanation A is more detailed but introduces less valid elements such as rage and Diazepam.
+aQKN9NB	H6	Leo	Rex	Leo	3	3	5	4	3	3	5	4	A	Rex	Explanation A includes more links to establish the connection.
+PdvD761	H6	Leo	Rex	Leo	5	3	5	5	5	2	3	5	A	Rex	The B option, provides a simplistic approach to the issue! A provides comparatives of other compounds of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing. Additionally, A provides the side effects that due to the fact that these agents are very close in a series of other thing adds something that does not hurt.
+jaG0bJE	H7	Leo	Leo	Rex	1	1	1	1	4	3	5	4	A	Leo	Model B: The relationship between these drugs is not clearly defined based on the description provided.
+RG8jBkK	H7	Leo	Leo	Rex	4	2	3	4	5	3	5	5	A	Leo	Graph A seems too complex and presents links that are not detailed in the text. Text A is very convincing linking the compound to the treatment at different levels and mechanisms with evidence from drug analogs, pharmacological classification and shared side-effects.
+GxY7xlz	H7	Leo	Leo	Rex	3	3	5	3	2	2	3	2	B	Rex	The two explanations are similar, but B has fewer side effects described, so it is not necessary to understand the hypothesis.
+7R4P2W2	H7	Leo	Leo	Rex	4	3	5	4	4	4	3	4	B	Rex	I like both explanations and neither are too unnecessarily complex, but I still prefer the most simple explanation, the second one.
+1AG5kRg	H7	Leo	Leo	Rex	2	1	1	3	5	3	5	5	A	Leo	B - Clear explanation
+VLoAdx6	H7	Leo	Leo	Rex	4	2	3	5	5	3	5	5	A	Leo	Both explanations contain basically the same information, with A being a little more complete, with more compound and shared ancestors, without being too complex. I liked the organization of the graph. It also has and a more insightful text explanation. Explanation B is also good though!
+OD8erxa	H7	Leo	Leo	Rex	4	4	3	4	3	5	1	1	B	Rex	Explanation B is superior, though slightly overcomplicated by including side effects that don’t seem particularly relevant to the drug–disease connection. Overall, however, it is the more valid and relevant explanation. Explanation A, on the other hand, appears to be incorrect. It states that “the increased sympathetic activity induced by diethylpropion is a critical mechanism that enhances metabolic rates, further supporting its utility in treating obesity.” To my knowledge, increased sympathetic nervous system (SNS) activity is a symptom of obesity, and effective obesity treatments typically aim to reduce SNS activity to controlled levels in order to lower comorbidities associated with the condition. Therefore, Explanation A is not only overly complex but also misleading in the graph and factually incorrect in the text.
+rj2RGXo	H7	Leo	Leo	Rex	2	2	3	5	5	3	5	5	A	Leo	Explanation A, while more complex, covers all the relevant information: chemical classification, mechanism of action, therapeutic role, and adverse effects. It looks detailed without being excessively complex. I found explanation B too simple in this case: it does not explicitly mention the mechanism and also the psychiatric risks.
+rj2zk8L	H7	Leo	Leo	Rex	4	3	5	4	4	5	1	4	B	Rex	Explanation B has a much clearer logical graph, references the potential risks concisely, and just appears to have a better explanation of the facts overall.
+aQKNQzy	H7	Leo	Leo	Rex	4	3	5	5	4	5	1	5	B	Rex	Explanation A is too comprehensive on the account of diethylpropion’s mechanism, therapeutic role in obesity, related compounds, and adverse effects. Explanation B is accurate.
+aQKN9NB	H7	Leo	Leo	Rex	4	3	5	4	3	5	1	4	B	Rex	Explanation A is too complex.
+PdvD761	H7	Leo	Leo	Rex	5	2	3	4	4	4	3	4	B	Rex	The B option, provides a simplistic approach to the issue! However this provides enough information when compared to A that add an extra connection to side effects, that only share a general ancestor (CNS stimulant)
+jaG0bJE	H8	Leo	Rex	Leo	2	1	1	2	4	5	1	4	B	Leo	"Model A: too simple to drive conclusions
+ Model B: Dexamethasone doesn’t lead to Prednisolone; they are distinct drugs in the same class"
+RG8jBkK	H8	Leo	Rex	Leo	5	3	5	5	3	5	1	3	A	Rex	Explanation B is too complex and includes information that is not relevant. IE: the graph indicating that Paramethasone and Prednisolone are steroids seems redudant.
+GxY7xlz	H8	Leo	Rex	Leo	4	4	3	4	3	3	5	3	A	Rex	The two explanations are very similar, but the explanation A is easier to understand the correlation between the two pharmacological compounds.
+7R4P2W2	H8	Leo	Rex	Leo	4	2	3	4	4	3	5	4	B	Leo	It's the first case where I believe the more simple explanation is too simple. The second explanation is more complete without being too much.
+1AG5kRg	H8	Leo	Rex	Leo	3	2	3	3	5	3	5	5	B	Leo	A more detailed and clear explanation
+VLoAdx6	H8	Leo	Rex	Leo	4	2	3	5	5	3	5	5	B	Leo	Explanation B provides more relevant information with important relatioships with other similar compounds, and the text explanation is more complete.
+OD8erxa	H8	Leo	Rex	Leo	2	1	1	2	3	2	3	4	B	Leo	Explanation B is more complete but still lacks sufficient evidence to be truly compelling. Both explanations include causal relationships that are not directly relevant. Explanation A, in particular, is overly simplistic and fails to present a strong argument, making its validity highly questionable. Its overall relevance is minimal, as the connections it highlights are either insignificant or based on weak, overly general ancestry.
+rj2RGXo	H8	Leo	Rex	Leo	3	2	3	2	5	4	3	5	B	Leo	I found explanation B accurate, more complete, and balanced between chemical and clinical perspectives (even though a bit technical). Concerning explanation A, the chosen side effect is probably not so relevant and the therapeutic coverage is also quite narrow.
+rj2zk8L	H8	Leo	Rex	Leo	4	2	3	4	4	4	3	5	B	Leo	Explanation B illustrates the relationship between the drugs in detail but without making it confusing
+aQKNQzy	H8	Leo	Rex	Leo	4	2	3	3	5	3	5	5	B	Leo	Explanation B is preferred because it provides a more accurate and comprehensive account of Dexamethasone’s role in the corticosteroid class and its therapeutic link to systemic lupus erythematosus, while also noting relevant adverse effects. Explanation A is less accurate and less complete.
+aQKN9NB	H8	Leo	Rex	Leo	3	2	3	2	4	4	3	4	B	Leo	Explanation B is a bit more complex, but still somewhat concise.
+PdvD761	H8	Leo	Rex	Leo	3	2	3	5	4	4	3	4	B	Leo	The A option, provides a simplistic approach to the issue! B provides comparatives of other compounds of the same family/ancestry that share similar effects/properties that may help justify why a drug with similar characteristics/effects/mechanisms is a good candidate or actual subject of repurposing.
+jaG0bJE	H9	Leo	Leo	Rex	4	3	5	5	2	5	1	3	B	Rex	"Model A: overly complicated, and does not say much.
+ Model B: more straight to the point"
+RG8jBkK	H9	Leo	Leo	Rex	2	2	3	2	4	4	3	4	A	Leo	Explanation A provides more valid points and stronger links between the nodes
+GxY7xlz	H9	Leo	Leo	Rex	2	3	5	3	4	4	3	4	A	Leo	I prefer explanation A because it does not mention side effects and because it refers to the pharmacological class
+7R4P2W2	H9	Leo	Leo	Rex	5	3	5	5	4	3	5	4	B	Rex	Both are straight to the point explanations but the second explanation is structured better and the flow of information is more logical and intuitive here.
+1AG5kRg	H9	Leo	Leo	Rex	5	3	5	4	1	5	1	2	B	Rex	The language used in A is confusing and may lead to missinterpretations
+VLoAdx6	H9	Leo	Leo	Rex	3	2	3	4	4	2	3	5	A	Leo	Explanation A could be more complete, with more examples of compounds or shared ancestors/side effects, but it is enough to understand to logic behind candidate selection. Explanation B wouldn't convince me to select the candidate. Its missing important information. Maybe a mix between the two explanations would be ideal.
+OD8erxa	H9	Leo	Leo	Rex	1	2	3	1	5	2	3	5	A	Leo	A could be more complete but its sound. B is irrelevant.
+rj2RGXo	H9	Leo	Leo	Rex	4	3	5	3	4	2	3	4	A	Leo	"I prefer explanation A because it focuses on the pharmacological pathway from ""steroidal estrogens"" to ""ethinyl estradiol"", linking it to prostate cancer treatment. Explanation B looks less coherent than A."
+rj2zk8L	H9	Leo	Leo	Rex	3	3	5	4	4	4	3	4	A	Leo	Explanation A provides a clearer explanation of the functions of estrogens in this context.
+aQKNQzy	H9	Leo	Leo	Rex	3	2	3	3	5	3	5	4	A	Leo	Explanation A is preferred because it directly connects conjugated estrogens to prostate cancer treatment through estrogen receptor agonists, providing a focused therapeutic pathway. Explanation B is broader but less relevant and less scientifically grounded in the specific cancer context.
+aQKN9NB	H9	Leo	Leo	Rex	3	2	3	3	3	1	1	3	B	Rex	Both simple explanations. I prefer B, it provides a stronger link.
+PdvD761	H9	Leo	Leo	Rex	3	2	3	3	4	2	3	4	A	Leo	"B presents a clear pathway to a repurposing via a symptom. This could be a chain of thought to justify an application to combat a symptom of the target disease.
+ A on the other hand present a logical and simple connection to the disease via a similar medication. Despite simpler, in this case seams more appropriate but could gain with more information."
+jaG0bJE	H10	Leo	Rex	Leo	4	3	5	4	1	2	3	1	A	Rex	Model B: The phrasing gives the impression that amiloride and hydroflumethiazide share the same mechanism, which is not true. They are both diuretics but could act via different channels.
+RG8jBkK	H10	Leo	Rex	Leo	4	4	3	4	2	5	1	2	A	Rex	Explanation B seems redundant by classifying Amiloride as both a potassium sparing diuretic and a diuretic. It is also redundant that a diuretic increases diuresis. Finally, the inclusion of Bendroflumethiazide is irrelevant because it only connects to Amiloride as a diuretic that increases diuresis.
+GxY7xlz	H10	Leo	Rex	Leo	3	3	5	3	4	4	3	4	B	Leo	I prefer explanation B because it does not mention the side effect of increased serum potassium with Valsartan. I also prefer B because it relates more than one pharmacological compound in the diuretic class to point out the correlation between them in treating hypertension.
+7R4P2W2	H10	Leo	Rex	Leo	4	4	3	4	4	4	3	4	B	Leo	Both are a bit too complex but the first explanation does not sound natural words wise, sounds very AI produced. The second explanation sounds more like natural human informative speech.
+1AG5kRg	H10	Leo	Rex	Leo	2	2	3	2	5	3	5	5	B	Leo	B - clear and complete
+VLoAdx6	H10	Leo	Rex	Leo	4	3	5	5	5	3	5	5	B	Leo	Difficult choice. I chose explanation B because it provides more information relevant for the prediction, with more examples, and the text explanation is more complete and insightful on the relationship between compounds.
+OD8erxa	H10	Leo	Rex	Leo	5	3	5	5	4	3	5	4	B	Leo	Both explanations are good. Textually B has a more clear chain of thought and its easier to follow, but and ultimately compelling.
+rj2RGXo	H10	Leo	Rex	Leo	5	3	5	5	3	2	3	3	A	Rex	In this case, I prefer explanation A. In particular, explanation B classify (as explanation A) amiloride in hypertension treatment, but it emphasizes increased diuresis, which, from my understanding, is not its primary mechanism.
+rj2zk8L	H10	Leo	Rex	Leo	4	3	5	4	5	4	3	4	B	Leo	More detailed, showing a clearer explanation on the functions, without being overwhelming
+aQKNQzy	H10	Leo	Rex	Leo	4	3	5	4	5	3	5	5	B	Leo	Explanation B is preferred because it provides a scientifically accurate, comprehensive, and therapeutically focused account of Amiloride and related diuretics in hypertension treatment. Explanation A is informative but less valid due to its misleading link with Valsartan.
+aQKN9NB	H10	Leo	Rex	Leo	3	4	3	3	4	4	3	4	B	Leo	More complex, but provides stronger evidence.
+PdvD761	H10	Leo	Rex	Leo	5	3	5	5	5	3	5	5	B	Leo	Both are very good explanations! The preference for B lies in the fact that in my view, in this case, the side effect despite very valuable is less informative in the context of pure capability. Considering the final product of a repurposing, side effects could be more important to also infer the real world applicability.
+J9828VY	H1	Elena	Elena	Rex	4	4	3	4	5	3	5	5	A	Elena	"More streamlined, verbalization of the explanation is better with less leaps in logic. Spatial organization of explanation B visualization is slightly more helpful. ""resembles pargyline"" is not helpful in B."
+gDWkZrM	H1	Elena	Elena	Rex	4	4	3	4	3	3	5	3	B	Rex	Including more structurally similar drugs with comparable activity increases the credibility of the results. It also offers additional insights (although still not enough, in my opinion) into the relevance of psychotic episodes in appetite suppression, which at first glance might not appear to be related
+aQZvLXb	H1	Elena	Elena	Rex	4	4	3	5	3	3	5	3	B	Rex	More complete with better relations between compounds
+Ek8EQlo	H1	Elena	Elena	Rex	3	5	1	3	3	3	5	2	A	Elena	Explanation B is too confused and not focused on Benzphetamine
+81jgkVP	H1	Elena	Elena	Rex	2	3	5	4	4	3	5	4	A	Elena	Kept me much focused on the psychotic episodes
+b5NEv6Z	H1	Elena	Elena	Rex	5	3	5	4	5	2	3	4	B	Rex	B explanation includes and highlights more the side effects, and is more complete, giving a better overview.
+44PDZqb	H1	Elena	Elena	Rex	3	3	5	1	4	3	5	4	A	Elena	the graph is moro organized and the text follows the interactions present in it, while the text B refers to information that is not explicit in the graph.
+lbVE05k	H1	Elena	Elena	Rex	3	5	1	2	3	3	5	4	A	Elena	Image and text more concise and better to understand
+OD8R9R7	H1	Elena	Elena	Rex	4	4	3	4	3	5	1	3	B	Rex	The only 'hard evidence' is the classification of Benzaphetamine as an appetite suppressor, which is present in both explanations. However, explanation B has less 'noise' and the structural similarity to a known obesity drug is somewhat relevant, albeit 'soft'.
+oblXKeO	H1	Elena	Elena	Rex	4	4	3	4	5	3	5	4	A	Elena	I believe it to be a clearer explanation. It includes all the important information without becoming overly complex and confusing. I also prefer the structure of the overall text (the sentences and their link to each other feel clearer and easier to read).
+J9828VY	H2	Elena	Rex	Elena	4	2	3	4	4	3	5	5	B	Elena	"""unspecified disorder of intestine"" in A is not helpful as a connection between drugs when there is a lowest common ancestor.
+ pharmacologic class feels like a strong connector
+ just one drug with multiple links that feel more biologically relevant appears like a better choice than two drugs with weaker links"
+gDWkZrM	H2	Elena	Rex	Elena	4	4	3	3	4	4	3	4	B	Elena	B provides more detailed written content, which makes it more convincing (e.g., ‘The activation of PPAR alpha is crucial for the modulation of lipid profiles, particularly in reducing triglyceride levels’). However, these details are not reflected in the graph. Therefore, I prefer B, but only on the basis of its written content.
+aQZvLXb	H2	Elena	Rex	Elena	3	2	3	2	3	3	5	4	B	Elena	MOre complete answer
+Ek8EQlo	H2	Elena	Rex	Elena	2	5	1	3	4	3	5	4	B	Elena	Explanation B correlates better the effect of the drug to the disease
+81jgkVP	H2	Elena	Rex	Elena	2	5	1	3	3	3	5	3	B	Elena	less confused
+b5NEv6Z	H2	Elena	Rex	Elena	4	3	5	4	4	4	3	4	B	Elena	Although this explanation does not adress much the side effects of this drug, it gives a better and more complete overview of how it works
+44PDZqb	H2	Elena	Rex	Elena	3	3	5	3	4	4	3	4	B	Elena	In explanation A the side effect is considered to link tow compounds, however it seems unimportant information for the the therapeutic prediction given all the other information presented.
+lbVE05k	H2	Elena	Rex	Elena	4	3	5	3	4	4	3	4	B	Elena	Graphic more clear and text
+OD8R9R7	H2	Elena	Rex	Elena	3	4	3	3	3	3	5	3	B	Elena	The only 'hard' evidences are present in both explanations: the pharmacological class and the role as a fibrate antilipidemic agent, which are shared with a drug known to treat coronary artery disease. The shared side-effects and chemical structural family are essentially noise, and there are more of these in explanation A than B.
+oblXKeO	H2	Elena	Rex	Elena	3	4	3	3	4	4	3	5	B	Elena	While having some information that isn't necessary for the explanation, making it in my opinion a little less clear when reading, the sequence of information makes more sense to me and feels more relevant to explain the hypothesis
+J9828VY	H3	Elena	Rex	Elena	5	4	3	4	5	4	3	4	B	Elena	"""resembles"" is a weak link
+ both explanations have extra unnecessary wording: ""an ontological expansion that serves as a common ancestor for related compounds"", ""establishing a direct therapeutic connection between these compounds and the management of this skin condition."", ""which encompasses various forms of this essential nutrient"", ""has a well-documented mechanism of action"", ""establishing a clear mechanistic link from cholecalciferol to therapeutic outcomes.""
+ prefer B just because it mentions the mechanism of action, but visualization of A is much better"
+gDWkZrM	H3	Elena	Rex	Elena	3	3	5	3	3	3	5	4	B	Elena	B provides more detailed written content, which makes it more convincing (e.g., ‘Calcitriol has a well-documented mechanism of action, as it treats psoriasis through its role in modulating immune responses and promoting keratinocyte differentiation’). However, these details are not reflected in the graph. Therefore, I prefer B, but only on the basis of its written content
+aQZvLXb	H3	Elena	Rex	Elena	2	2	3	2	3	4	3	4	B	Elena	Indicates a clear metabolic pathway from Cholecalciferol to calcitriol.
+Ek8EQlo	H3	Elena	Rex	Elena	4	2	3	4	5	4	3	5	B	Elena	Well explained but with a little too many details
+81jgkVP	H3	Elena	Rex	Elena	4	3	5	4	4	3	5	4	B	Elena	The conclusion sentence
+b5NEv6Z	H3	Elena	Rex	Elena	3	3	5	4	3	2	3	4	A	Rex	Has a more clear explanation of the drugs' pathway.
+44PDZqb	H3	Elena	Rex	Elena	4	3	5	3	3	5	1	4	A	Rex	In Explanation B the graph is unclear and far too complex for what was needed. Furthermore, the text and the graph do not entirely overlap.
+lbVE05k	H3	Elena	Rex	Elena	4	3	5	3	3	5	1	3	A	Rex	Explanation in the correct way. Text and image very concise and understandable
+OD8R9R7	H3	Elena	Rex	Elena	2	2	3	2	3	4	3	3	B	Elena	While none of the evidence is particularly hard, explanation B provides more evidence to support the assertion.
+oblXKeO	H3	Elena	Rex	Elena	4	2	3	5	5	3	5	5	B	Elena	I feel like it possesses relevant information lacking in explanation A and makes a more detailed connection between the drug and the treatment of psoriasis.
+J9828VY	H4	Elena	Elena	Rex	5	3	5	5	4	2	3	5	B	Rex	"text in A is repetitive and in image 2 of the 4 entities are related to calcium channels making it feel less informative
+ in B the side-effect link is not convincing
+ even though A has the mechanism in the text, going with B because image feels far more relevant and mentions a specific group of drugs in addition to the calcium channel blocker information"
+gDWkZrM	H4	Elena	Elena	Rex	3	5	1	3	4	3	5	4	A	Elena	The written content of A feels more convincing (e.g., The connection between Nicardipine and hypertension is grounded in its ability to inhibit calcium influx, thereby reducing vascular resistance and lowering blood pressure'). However, these details are not reflected in the graph. Also, in B the ' electrocardiogram T wave inversion' is confusing/distracting because its is not explained why this could matter.
+aQZvLXb	H4	Elena	Elena	Rex	2	1	1	1	3	3	5	3	A	Elena	Easier to understand
+Ek8EQlo	H4	Elena	Elena	Rex	2	2	3	2	4	3	5	4	A	Elena	Explanation B doesn't explain how the drug treats the symptoms
+81jgkVP	H4	Elena	Elena	Rex	4	3	5	4	3	2	3	3	B	Rex	More clear
+b5NEv6Z	H4	Elena	Elena	Rex	4	2	3	4	4	2	3	4	A	Elena	A has a more detailed explanation of how the drug works, but again still misses mentioning the side effects
+44PDZqb	H4	Elena	Elena	Rex	2	2	3	2	5	3	5	5	A	Elena	Explanation B seems confusing and not clear.
+lbVE05k	H4	Elena	Elena	Rex	3	2	3	2	4	3	5	3	A	Elena	direct explanation
+OD8R9R7	H4	Elena	Elena	Rex	3	4	3	3	4	3	5	4	A	Elena	Again, the only hard evidence is that Nicardipine is a calcium channel antagonist/blocker and only one of these is present in B.
+oblXKeO	H4	Elena	Elena	Rex	4	4	3	5	5	3	5	5	A	Elena	It is a simpler and clearer explanation. All the information feels relevant and is presented in a way that is easy to follow.
+J9828VY	H5	Elena	Elena	Rex	5	4	3	5	5	3	5	5	A	Elena	"expected image in B to also show a link ""diphosphonates"" ""includes"" ""risedronate"" as is shown in A
+ ""organic molecular entity"" is entirely unhelpful
+ textual descriptions of both do not add anything, image would be enough
+ both explanations are equally good, prefer A for the lack of side-effects"
+gDWkZrM	H5	Elena	Elena	Rex	2	2	3	2	2	2	3	2	A	Elena	Neither explanation is satisfactory, as both lack relevant biological detail and rely on overly generic reasoning. I selected A not because it is genuinely better, but because B is even more vague and generic for example: ‘broader category of phosphonates, which are organic molecular entities. This connection highlights its role in various medical applications.’ This claim is so broad that it provides no meaningful conclusion, let alone specific evidence for a role in ‘various medical applications’ (which itself is vague). Furthermore, the leap from such a generic statement to the mention of ‘conditions like osteonecrosis of the jaw’ is completely unclear.
+aQZvLXb	H5	Elena	Elena	Rex	2	1	1	2	3	3	5	3	A	Elena	Explanation A is easier to understand.
+Ek8EQlo	H5	Elena	Elena	Rex	3	2	3	3	4	5	1	4	A	Elena	B is too simple, A is too complex
+81jgkVP	H5	Elena	Elena	Rex	3	3	5	3	3	3	5	3	B	Rex	Clearer
+b5NEv6Z	H5	Elena	Elena	Rex	3	3	5	4	4	2	3	4	B	Rex	Includes side effects
+44PDZqb	H5	Elena	Elena	Rex	2	2	3	3	4	3	5	4	A	Elena	Explanation B text is less clear and contradicts the information present in the graph.
+lbVE05k	H5	Elena	Elena	Rex	4	2	3	3	2	5	1	2	B	Rex	graph more clear
+OD8R9R7	H5	Elena	Elena	Rex	2	2	3	2	2	2	3	2	B	Rex	Both explanations contain only soft evidence, so in this case the addition of the side effects in B does provide additional value (since the explanation in A is so weak).
+oblXKeO	H5	Elena	Elena	Rex	3	2	3	4	4	2	3	4	A	Elena	I feel like it has more relevant information and is more clearly phrased.
+J9828VY	H6	Elena	Rex	Elena	5	5	1	5	5	2	3	5	B	Elena	"although B is ""simpler"", the extra entities in A do not help
+ textual descriptions are useless"
+gDWkZrM	H6	Elena	Rex	Elena	3	5	1	3	3	4	3	4	B	Elena	Rhe reference to ‘rage’ in A is confusing and feels counterintuitive as a treatment for epilepsy. In both cases, the reference to CYP without further connection to the disease is distracting.
+aQZvLXb	H6	Elena	Rex	Elena	2	1	1	1	5	3	5	4	B	Elena	Connection between Carbamazepine and the epilepsy syndrome is not supported in expl A
+Ek8EQlo	H6	Elena	Rex	Elena	2	2	3	3	5	3	5	5	B	Elena	B is very well explained and not too difficult to follow.
+81jgkVP	H6	Elena	Rex	Elena	3	3	5	4	3	2	3	3	A	Rex	Seems more certain
+b5NEv6Z	H6	Elena	Rex	Elena	4	3	5	4	4	5	1	4	A	Rex	Highlights de important details, without being too confusing, B has too much information
+44PDZqb	H6	Elena	Rex	Elena	2	2	3	2	4	3	5	4	B	Elena	A good choice of the necessary information, presented in a clear manner.
+lbVE05k	H6	Elena	Rex	Elena	2	5	1	3	4	3	5	4	B	Elena	explains all the information in the graph
+OD8R9R7	H6	Elena	Rex	Elena	4	4	3	4	4	3	5	4	B	Elena	All the hard evidence is present in B, and the additional information present in A is mostly noise.
+oblXKeO	H6	Elena	Rex	Elena	4	2	3	5	4	4	3	5	B	Elena	I feel like while a little too complex (in the sense that some information doesn't seem very relevant) it explains more clearly and without gaps the connection between the drug and the treatment of epilepsy
+J9828VY	H7	Elena	Elena	Rex	5	3	5	5	5	4	3	5	B	Rex	"links B feel like enough to establish a connection considering the connection of ""Diethylpropion"" to ""appetite suppression"" and ""anorexiant"", addition of ""metamphetamine"" in A feels redundant
+ dislike the side-effect in B and textual description adds less"
+gDWkZrM	H7	Elena	Elena	Rex	3	2	3	3	4	4	3	5	A	Elena	This appetite suppression is also associated with primary pulmonary hypertension, illustrating a complex relationship between these conditions' in B is not convincing (unless other mechanistic details were to be provided) and makes the explantion less credible.
+aQZvLXb	H7	Elena	Elena	Rex	3	4	3	3	4	3	5	3	A	Elena	Easier to understand. B is more complex
+Ek8EQlo	H7	Elena	Elena	Rex	3	4	3	2	4	3	5	4	A	Elena	B is too messy, linking a possible side effect that has nothing to do with obesity
+81jgkVP	H7	Elena	Elena	Rex	4	3	5	4	4	3	5	4	A	Elena	They are really similar
+b5NEv6Z	H7	Elena	Elena	Rex	4	3	5	4	4	2	3	4	B	Rex	Complete and has side effects
+44PDZqb	H7	Elena	Elena	Rex	4	5	1	4	5	5	1	5	A	Elena	I find explanation B too complex for what is needed.
+lbVE05k	H7	Elena	Elena	Rex	4	3	5	4	2	2	3	2	B	Rex	clear information between text and graph
+OD8R9R7	H7	Elena	Elena	Rex	4	4	3	4	5	4	3	5	A	Elena	"Both explanations include noise: ""amine"" and ""CNS stimulant"" in A, and ""Primary Pulmonary Hypertension"" and "" organooxygen compound"" in B. Both also include critical hard evidence, but A is richer and more complete than B in that regard."
+oblXKeO	H7	Elena	Elena	Rex	4	3	5	5	5	3	5	5	A	Elena	I have a preference for the structure of the text and the way the information is phrased and connected. I also think it has exclusively relevant information to explain the hypothesis making it clearer.
+J9828VY	H8	Elena	Rex	Elena	3	2	3	3	3	2	3	3	B	Elena	"both textual descriptions are terrible
+ dislike side-effects as reasoning but when that's all there is, a biomechemical mechanism feels like a better link than a physical one
+ i would not be convinced to investigate this further based on just this"
+gDWkZrM	H8	Elena	Rex	Elena	3	3	5	3	4	4	3	4	B	Elena	The mention of ‘joint instability’ in A is confusing and does not clarify how the drug could be beneficial. In contrast, B refers to the involvement of immune components in a disease already known to be autoimmune in nature, which makes it more consistent with current knowledge
+aQZvLXb	H8	Elena	Rex	Elena	4	2	3	4	2	2	3	3	A	Rex	Difficult to understand the relation between Dexamethasone and its role on systemic lupus erythematosus in expl B.
+Ek8EQlo	H8	Elena	Rex	Elena	2	2	3	1	4	3	5	4	B	Elena	A is not even addressing the disease.
+81jgkVP	H8	Elena	Rex	Elena	3	3	5	3	3	2	3	3	A	Rex	More complete
+b5NEv6Z	H8	Elena	Rex	Elena	4	3	5	3	4	4	3	4	B	Elena	Better scientific explanation, more complete
+44PDZqb	H8	Elena	Rex	Elena	2	2	3	2	4	3	5	3	B	Elena	In explanation A the side effect is said to be treated by the compound betamethasone, which makes the text and the graph to contradict.
+lbVE05k	H8	Elena	Rex	Elena	3	2	3	3	4	4	3	4	B	Elena	more concise
+OD8R9R7	H8	Elena	Rex	Elena	3	2	3	3	4	3	5	4	B	Elena	The two explanations are equivalent in shape, differing only in the side-effect listed. That side, the side-effect in B is directly tied to the mechanism of the drug whereas the one in A is more generic.
+oblXKeO	H8	Elena	Rex	Elena	4	2	3	5	4	2	3	5	B	Elena	The information feels more relevant by emphasizing more the actual connection between drug and treatment of SLE rather than the side effects of the drugs
+J9828VY	H9	Elena	Elena	Rex	1	1	1	1	5	3	5	4	A	Elena	"pharmacologic class is a far stronger link than side-effects and symptoms
+ text in B links ""estrone"" to ""hot flashes"" but link does not show up in image
+ textual descriptions are useless"
+gDWkZrM	H9	Elena	Elena	Rex	2	2	3	2	2	2	3	2	A	Elena	Explanation B introduces aspects such as hot flushes and osteoporosis, which are distracting since they relate primarily to the therapeutic effects of estrogens in women. Therefore, I prefer A. However, both explanations fail to provide the actual mechanistic pathway, which involves estrogens suppressing gonadotropin (LH and FSH) release via negative feedback on the hypothalamic–pituitary axis. This leads to a reduction in testicular androgen production, lowering circulating testosterone levels. Because prostate cancer growth is driven by androgens, this reduction in testosterone constitutes the key therapeutic mechanism by which estrogens exert their effect in prostate cancer treatment, so none of the explanations is actually good.
+aQZvLXb	H9	Elena	Elena	Rex	3	3	5	4	2	1	1	2	B	Rex	O more in-depth overview of the possible applications of conjugated estrogens.
+Ek8EQlo	H9	Elena	Elena	Rex	1	4	3	1	4	2	3	3	A	Elena	A could be more complete as it is a super simplified explanation. However, B is just not addressing prostate cancer.
+81jgkVP	H9	Elena	Elena	Rex	3	3	5	2	3	3	5	3	A	Elena	More direct
+b5NEv6Z	H9	Elena	Elena	Rex	2	2	3	4	4	3	5	4	A	Elena	More complete
+44PDZqb	H9	Elena	Elena	Rex	2	3	5	1	2	3	5	2	A	Elena	I found the explanation B to contradict the graph presented.
+lbVE05k	H9	Elena	Elena	Rex	3	4	3	2	3	3	5	4	A	Elena	to the point
+OD8R9R7	H9	Elena	Elena	Rex	2	2	3	1	4	2	3	4	A	Elena	Explanation B contains only superficial evidence, whereas A features hard evidence.
+oblXKeO	H9	Elena	Elena	Rex	4	2	3	3	4	2	3	5	A	Elena	while not very complete it presents more relevant information in a more straightforward way
+J9828VY	H10	Elena	Rex	Elena	4	3	5	3	4	3	5	3	A	Rex	"connection to ""diuresis"" in B feels irrelevant and side-effect in A adds some information comparatively
+ text in B is confusing and has leaps of logic"
+gDWkZrM	H10	Elena	Rex	Elena	4	4	3	4	4	4	3	4	B	Elena	Both explanations are equally good, but I chose B because it places greater emphasis on the diuresis process, which is particularly relevant for managing hypertension
+aQZvLXb	H10	Elena	Rex	Elena	2	2	3	2	4	3	5	3	B	Elena	The potential use of Amiloride to treat hypertension is better supported in explanation B.
+Ek8EQlo	H10	Elena	Rex	Elena	3	4	3	2	4	3	5	4	B	Elena	A is difficult to follow
+81jgkVP	H10	Elena	Rex	Elena	3	2	3	3	3	3	5	3	B	Elena	Understood better
+b5NEv6Z	H10	Elena	Rex	Elena	4	3	5	4	4	3	5	4	A	Rex	Both have complete explanations, i chose A just because it highlights the side effects
+44PDZqb	H10	Elena	Rex	Elena	3	3	5	3	5	3	5	5	B	Elena	The statements in B are more organized and plausible for the mechanism of action of the compounds.
+lbVE05k	H10	Elena	Rex	Elena	2	4	3	4	3	3	5	4	B	Elena	more concise
+OD8R9R7	H10	Elena	Rex	Elena	4	3	5	4	4	4	3	3	A	Rex	"Both explanations are similar in content, however, A includes the rather specific effect ""Serum Potassium Increased"" which is missing in B, whereas B includes ""Diuretic"" and ""Increased Diuresis"" which are redundant since ""Potassium-Sparing Diuretic"" is already present (I assume this is a subclass of ""Diuretic"")."
+oblXKeO	H10	Elena	Rex	Elena	3	2	3	4	5	3	5	5	B	Elena	The information is more relevant and the way it's presented is more clear and straightforward

@@ -1,0 +1,86 @@
+user_id,full_preference,final_persona
+user_01,"“I prefer explanations, as a clinician, that provide a shortcut to the final inhibitor, allowing me to click to expand more details if I choose.”
+“I prefer explanations that present a straight-line summary from gene → inhibitor → outcome, with a ‘+’ on nodes to reveal deeper context.”
+“I prefer explanations that include phenotypes, transcriptomic data, and clinical metrics (e.g., IMDC score) alongside each gene to guide treatment decisions.”",Persona 1
+user_02,"“I prefer explanations that avoid ambiguous regulation terms like ‘regulation of programmed…’ by clearly specifying whether a gene up-regulates or down-regulates a process and stating the mutant’s consistent effect.”
+“I prefer explanations that avoid mid-path sibling relations like ‘subclass of’ and instead use direct gene→process links.”
+“I prefer explanations that avoid zig-zagging on the same relation (e.g., A ← inhibited by ← B → inhibits → C) to preserve causal clarity.”
+“I prefer explanations that include an explicit check confirming each intermediate gene genuinely connects to the MTOR inhibitor, so no step feels arbitrary.”
+“I prefer explanations that include the mutation phenotype (e.g., consistent up- or down-regulation) so clinicians can judge whether an inhibitor or activator is appropriate.”
+“I prefer explanations that rely on direct, validated knowledge-graph relations rather than indirect subclass inferences.”",Persona 1
+user_03,"“I prefer explanations that are delivered as concise bullet points and clear, patient-level summaries.”",Persona 2
+user_04,"“I prefer explanations delivered as concise bullet points with an embedded graph—clinicians can scan key points while researchers expand layers.”
+“I prefer explanations that link additional inhibitors (e.g., MTOR inhibitor) even when they aren’t on the direct path, to provide useful context.”
+“I prefer explanations that include patient-level statements like ‘This patient fits trial population X based on features A, B, C.’”",Persona 1
+user_05,"“I prefer explanations for clinicians that focus only on biomarkers and outcomes rather than full mechanistic processes.”
+“I prefer explanations that hide intermediate biological details when they don’t affect the clinical decision.”",Persona 2
+user_06,"“I prefer explanations that block nodes to check their importance and select dominator nodes that appear most frequently.”
+“I prefer explanations that substitute the drug node with another from the same family to see if the explanations share common nodes.”
+“I prefer explanations that use repetition of the same meta-pattern as a robustness check—balanced against diversity of information.”
+“I prefer explanations that add counterfactual options like ‘see more similar drugs’ and make the graph dynamic so users can click to change features.”
+“I prefer explanations that present a connected graph with just a few key nodes, keep colors, and offer both diagram and text views.”",Persona 2
+user_07,"“I prefer explanations that present an abstraction with minimal detail—showing only the most relevant nodes to keep it digestible.”
+“I prefer explanations that highlight the single most important node in each path.”
+“I prefer explanations that explicitly correlate each gene to its inhibitor.”",Persona 1
+user_08,“I prefer explanations that vary in length—concise for clinicians and detailed for researchers.”,Persona 2
+user_09,"“I prefer explanations that evaluate whether the tumor is ‘hot’ or ‘cold’ to inform immune-cell interactions.”
+“I prefer explanations that track tumor progression and drug resistance over time to suggest alternative treatments or combinations.”
+“I prefer explanations that always show combined treatment options, potentially with AI-driven combination recommendations.”",Persona 2
+user_10,"“I prefer explanations that highlight clear, informative links—such as ‘dependence on opiates’—when they definitively identify the drug’s class.”
+“I prefer explanations that include uniquely informative connections—like ‘dependence on opiates’—over vague or redundant links.”",Persona 2
+user_11,"“I prefer explanations that provide clearer mechanistic context, recognizing that most users lack a life-sciences background.”
+“I prefer explanations that indicate whether each gene is up-regulated or down-regulated.”
+“I prefer explanations that show multiple distinct gene paths converging on the same drug so users can identify common points.”",Persona 1
+user_12,"“I prefer explanations that indicate how many gene mutations are active in a patient, not just the top one.”
+“I prefer explanations that are as short and concise as possible.”
+“I prefer explanations that include the chemical formulas of the proteins generated to compare inhibitor/inhibited similarities.”
+“I prefer explanations that merge rank and value to accumulate per-node scores, reducing overall size.”",Persona 1
+user_13,"“I prefer explanations that offer shorter, patient-friendly path summaries to improve understanding.”
+“I prefer explanations that convert complex paths into natural-language summaries to avoid overwhelming patients.”
+“I prefer explanations that use an LLM to translate and define each node, boosting clarity.”",Persona 2
+user_14,"“I prefer explanations that avoid placing ‘up’/‘down’ annotations in the middle of paths and instead clearly annotate regulation direction where it matters.”
+“I prefer explanations that hide intermediate biology by default—revealing it on demand—so clinicians see only the gene→drug connection strength up front.”
+“I prefer explanations that use ‘inhibits’ or ‘regulates’ links rather than generic predicates like ‘subclass of’ or ‘has participant in.’”
+“I prefer explanations that include a combined score of all gene–drug connections, since both patients and clinicians need that aggregate metric for therapy predictions.”",Persona 1
+user_15,"“I prefer explanations that are simplified and avoid unclear descriptions that obscure the biological context.”
+“I prefer explanations that include cellular protein localization to contextualize isoforms.”
+“I prefer explanations that combine textual and graph-based visualizations to serve clinicians and researchers without overwhelming patients.”
+“I prefer explanations that ensure specific information is always clear and complete.”
+“I prefer explanations that avoid excessive detail that prevents moving from specific to general classes in one direction.”
+“I prefer explanations that use precise class relations rather than overly general ones.”
+“I prefer explanations that only include super-to-subclass hierarchies when they maintain correct directional flow.”
+“I prefer explanations that penalize paths assuming genes are similar and would be inhibited similarly.”
+“I prefer explanations that include additional superclass context when it adds value, even if the path is longer.”",Persona 1
+user_16,"“I prefer explanations that avoid convoluted paths like Gene → Process → Process → Gene and instead choose simpler, more intuitive routes.”
+“I prefer explanations that avoid vague relations such as ‘acts upstream or within’ and use precise, descriptive links.”
+“I prefer explanations that do not rely on analogies to similar genes—which can mislead patients—and instead provide direct evidence of mechanism.”
+“I prefer explanations that avoid technical GO class labels like ‘subclass of’ when addressing general audiences.”",Persona 1
+user_17,"“I prefer explanations that provide sufficient bio-background support alongside graphical visualizations for patient comprehension.”
+“I prefer explanations that include an extra textual description of the graphical visualization.”
+“I prefer explanations that use specific terminology to increase clarity over more generic phrasing.”
+“I prefer explanations that clearly define each gene’s type and its relation between specific subtype and drug.”
+“I prefer explanations that avoid vague predicates like ‘acts upstream of or within’ and instead use precise regulatory descriptions.”",Persona 1
+user_18,"“I prefer explanations that include molecular function annotations for greater informativeness.”
+“I prefer explanations that identify the direct superclass of the query gene when paths become too specific.”
+“I prefer explanations that leverage sequence information to obtain domain motif annotations and complement the rationale.”
+“I prefer explanations that balance process detail with readability—using technical paths sparingly when they add clear value.”
+“I prefer explanations that use the gene class hierarchy to link directly to the inhibitor for clearer context.”
+“I prefer explanations that define specific gene/protein types—explaining exactly what ‘class 3’ represents.”",Persona 1
+user_19,"“I prefer explanations that avoid technical jargon like ‘inhibitor’ for non-technical users and use intuitive terminology.”
+“I prefer explanations that are shorter and more straightforward to build trust, while offering full technical detail for accountability when needed.”
+“I prefer explanations that include a verbal user guide to clarify logical flow and the roles of inhibitors and processes for non-technical users.”",Persona 2
+user_20,"“I prefer explanations that merge regulation processes into a single, clear reasoning path rather than splitting them across multiple variants.”
+“I prefer explanations that are concise by default but allow users to expand for more detail if desired.”
+“I prefer explanations that limit the number of genes listed in a path to only those indispensable for understanding.”
+“I prefer explanations that avoid redundant ‘Signaled Processes’ sections by not listing the same process twice.”
+“I prefer explanations that streamline ‘Signaled Drugs’ views by showing only essential drugs rather than a long sequence.”
+“I prefer explanations that include a reliability score for each drug to inform confidence in the recommendation.”",Persona 1
+user_21,"“I prefer explanations that include an explicit AI-generated justification element with each summary.”
+“I prefer explanations that are short and specific for patients, but long and detailed for clinicians.”
+“I prefer explanations that assist clinicians with deeper insights beyond the basics.”
+“I prefer explanations that include a clinical-endorsement metric—showing how many experts back this structure—and a reliability score or margin of error.”
+“I prefer explanations that include a legal disclaimer so clinicians retain final responsibility.”",Persona 2
+user_22,"“I prefer explanations that are simple and not overly complex overall.”
+“I prefer explanations that include a margin-of-error and reliability indicator for each path.”
+“I prefer explanations that omit overly general information that doesn’t aid decision-making.”
+“I prefer explanations that offer multiple tailored versions for different user roles.”",Persona 2

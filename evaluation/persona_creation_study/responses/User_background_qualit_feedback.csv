@@ -1,0 +1,125 @@
+﻿ID;Task;Age;Background;Preference
+answer_1;Drug Repurposing;25-34;Life Science–oriented;" “I prefer explanations that combine therapeutic, genetic, adverse-effect, and ontological information for maximal scientific validity.”
+ “I prefer explanations that balance clarity with broader biological context, rather than offering only a narrow therapeutic chain.”
+ “I prefer explanations that avoid weak or speculative links and instead focus on scientifically plausible, clinically relevant mechanisms.”
+ “I prefer explanations that explicitly state direct, clinically established drug–disease links—such as Cyclosporine treating Systemic Lupus Erythematosus—rather than tracing speculative indirect paths.”
+ “I prefer explanations that acknowledge a drug’s primary indication—such as Tazarotene for psoriasis—instead of defaulting to indirect class-membership reasoning or side-effect detours.”
+ “I prefer explanations that combine therapeutic, genetic, and adverse-effect details for depth, rather than stopping at a simple chain or speculative toxicity links.”
+ “I prefer explanations that include well-established treatment relationships—such as Latanoprost for glaucoma—instead of only taxonomic or analogical chains.”
+ “I prefer explanations that assert a drug’s direct therapeutic use—such as Vinorelbine for breast cancer—rather than hiding behind class membership or side-effect analogies.”
+ “I prefer explanations that combine side-effect profiles, alternative-therapy context, and ontological classification, while still explicitly stating direct therapeutic assertions.”
+ “I prefer explanations that enrich basic taxonomic reasoning—e.g., for Spironolactone—with pharmacological details, related conditions, and ontological tags.”
+ “I prefer explanations that go beyond simple class chains by adding drug-class, molecular-resemblance, and ontological details—and that avoid assumptions undermining clinical validity.”
+ “I prefer explanations that introduce treatment alternatives, adverse-effect nodes, and ontological expansions—rather than only simple class-based diphosphonate chains.”
+ “I prefer explanations that combine class membership, structural similarity, and ontological classification—offering rich, mechanistically plausible context.”
+ “I prefer explanations that explicitly include direct, clinically established therapeutic links and integrate side-effect profiles, biological context, and ontological categories—avoiding overly simple or speculative reasoning.”"
+answer_2;Drug Repurposing;25-34;Life Science–oriented;" “I prefer explanations that justify drug selection by established efficacy, not merely by shared effects. For example, itts not clear why vincristine would be a good option to treat hematologic cancer considering only that the two drugs have the same effect. ”
+ “I prefer explanations that explicitly show how related drugs (like Latanoprost and Bimatoprost) contribute mechanistically, making the reasoning intuitive rather than assuming shared prostaglandin effects.”
+ “I prefer explanations that include ontological expansions that are pertinent to side-effect context to strengthen prediction or association.”
+ “I prefer explanations that go beyond shared side effects and provide classification details that justify repurposing predictions.”
+ “I prefer explanations that avoid redundant details and focus on information directly relevant to the prediction.”
+ “I prefer explanations that maintain correct directional causality and avoid unnecessary details, favoring simpler explanations when extra data with ontological explanation adds little value.”
+ “I prefer explanations that are complete and intuitive, incorporating pathway variations and class-related context.”"
+answer_3;Drug Repurposing;25-34;Life Science–oriented;" “I prefer explanations that use ontological expansion to clarify connections between claims.”
+ “I prefer explanations that offer multiple paths for completeness while limiting their number to avoid excessive complexity.”
+ “I prefer explanations that apply ontological expansion specifically to indirect relations—those not already covered by ‘causes’ or ‘treats’—to enhance clarity.”
+ “I prefer explanations that leverage ontology for non-obvious or indirect relations, rather than for links already defined as ‘treats’ or ‘causes.’”"
+answer_4;Drug Repurposing;25-34;"Computer Sciense/AI-heavy  with Biomedical Experience	";" “I prefer explanations that emphasize treatment of related diseases over shared side effects and use common superclasses to anchor similarity in a biomedical context.”
+ “I prefer explanations that avoid vague ‘causes’ links, reinforce connections with specific causal steps, and—when used—complement them with superclass labels to confirm those links.”
+ “I prefer explanations that use shared active ingredients as strong repurposing indicators and limit superclass additions to those that add clear, informative value.”
+ “I prefer explanations that avoid overly broad effects like ‘aplasia,’ include gene-level details, and only introduce terms like ‘antimetabolite’ when they clarify the mechanism.”
+ “I prefer explanations that avoid broad categories like ‘prostaglandins’ and redundant ‘resembles’ links while using specific analogues—such as ‘prostaglandin analogue’—to strengthen the connection.”
+ “I prefer explanations that cite strong mechanistic classes like ‘vinca alkaloids,’ include target-tissue or mechanism details, and avoid weak ‘resembles’ chains or redundant labels like ‘antineoplastic agent.’”
+ “I prefer explanations that emphasize relevant physiological links—such as aldosterone’s cardiac context—and use concise shortcuts like ‘steroid’ to clarify drug relationships.”
+ “I prefer explanations that avoid weak side-effect–based links and introduce specific mechanistic actions—such as ‘purine antagonist’—to strengthen the rationale.”
+ “I prefer explanations that align drug classes like ‘diphosphonates’ with disease mechanisms and only include class labels like ‘phosphonic acid’ when they add essential context.”
+ “I prefer explanations that highlight active ingredients for completeness, avoid unhelpful ‘resembles’ chains, and selectively include informative links like ‘Hydroxy seco-steroid.’”
+ “I prefer explanations that use strong mechanistic or domain-relevant links—such as chemical-class alignment, gene involvement, or precise biological actions—leverage extra biomedical context only when it adds clear value, and avoid vague or redundant connections.”"
+answer_5;Drug Repurposing;25-34;"Computer Sciense/AI-heavy  with Biomedical Experience	";" “I prefer explanations that go beyond shared ‘treats’ links—providing deeper characterization of drugs and targets—and include additional relation types that make drug comparisons scientifically plausible.”
+ “I prefer explanations that avoid weak ‘causes’ correlations and instead leverage richer relation types—like ‘is a’ —to introduce relevant scientific context.”
+ “I prefer explanations that do not rely solely on ‘includes’ or drug-family membership, but instead provide mechanistic or target-based distinctions to justify repurposing.”
+ “I prefer explanations that keep complexity manageable by adding only meaningful bio-context, avoiding unnecessary paths, and using relation types that truly validate the prediction.”
+ “I prefer explanations that, when including chemical-group context, ensure it directly supports repurposing—adding only those compound-class links that genuinely strengthen the rationale.”
+ “I prefer explanations that eliminate ‘resembles’ or ‘causes’ relations and instead introduce plausible contextual links—such as ‘is a’—to convey shared chemical background and validate repurposing.”
+ “I prefer explanations that avoid oversimplified or invalid relation types (e.g., treats, includes, resembles, causes), do not group drugs by class alone, and incorporate meaningful bio-contextual layers—such as is a and chemical-context links—even if that adds some complexity.”"
+answer_6;Drug Repurposing;25-34;Hybrid Computational-Biology ;" “I prefer explanations that stay clinically focused, avoid symptom-based links, and highlight shared mechanistic properties—such as ‘vinca alkaloids’—to explain why drugs behave similarly.”
+ “I prefer explanations that do not rely on circular ‘causes’ justifications and instead use shared mechanistic properties to clarify why drugs align.”
+ “I prefer concise explanations that link drugs by shared treatment lines and include just enough context to make the rationale immediately clear.”
+ “I prefer explanations that avoid repeating the same connection (e.g., prostaglandins) and instead offer distinct, non-redundant context.”
+ “I prefer explanations that omit irrelevant nodes like ‘tumor pain’ and present clean, non-overlapping paths.”
+ “I prefer explanations with moderate length (around three to five edges) and a limited number of paths to maintain balance and clarity.”
+ “I prefer explanations that avoid using only ‘causes’ and instead include more specific mechanistic relations.”
+ “I prefer explanations that use ‘resembles’ within a relevant subgroup and avoid overly broad groupings.”"
+answer_7;Drug Repurposing;35-49;Hybrid Computational-Biology ;" “I prefer explanations that link from a broad disease category to its relevant subset and include direct mechanistic insight into the drug’s mode of action, rather than flawed subgroup-to-group reasoning.”
+ “I prefer explanations that go beyond shared side-effect correlations by explicitly describing the drug’s mode of action—such as immunosuppression—when justifying its therapeutic use.”
+ “I prefer explanations that, while acknowledging drug-class membership, also introduce mechanism-focused links rather than repeating superclass chains or relying on side effects.”
+ “I prefer explanations that specify precise mechanistic details—such as the exact type of aplasia or deregulated gene—while avoiding flawed subgroup-to-group transitions and generic chemical tags.”
+ “I prefer explanations that accurately describe drugs as molecular analogs rather than saying they ‘include’ prostaglandins, and that omit irrelevant side effects like iris hyperpigmentation.”
+ “I prefer explanations that detail the mechanism of action—such as microtubule inhibition by vinca alkaloids—avoid ambiguous terms like ‘tumor pain,’ and use clear therapeutic labels like ‘antineoplastic agent.’”
+ “I prefer explanations that clearly differentiate repurposing from existing indications and reference relevant biomarkers and tissue contexts—rather than restating an approved use.”
+ “I prefer explanations that explicitly articulate the immunosuppressive mechanism—such as T-cell inhibition—when linking a drug to hematologic cancers.”
+ “I prefer explanations that justify chemical-group inferences with mechanistic or disease-specific insights—such as parallels in osteonecrosis treatment—rather than relying solely on class membership.”
+ “I prefer explanations that support molecular-type inferences with direct therapeutic parallels—using resemblance to known treatments—rather than adding non-functional classification details.”
+ “I prefer explanations that avoid generic class or side-effect links, deliver a clear therapeutic rationale tied to mechanism of action, include biological insight—while avoiding redundant chemical details.”"
+answer_8;Drug Repurposing;35-49;Computer Sciense/AI-heavy  with Biomedical Experience;" “I prefer explanations that establish a direct drug–gene connection rather than inferring efficacy from shared class membership, overlapping cancer types, or common side effects.”
+ “I prefer explanations that avoid using shared side effects or chemical-family membership as sole evidence for therapeutic equivalence.”
+ “I prefer explanations that rely on mechanistic or target-based evidence, rather than mere co-occurrence of properties like side effects or chemical classification.”
+ “I prefer explanations that introduce unique, mechanistically justified paths rather than repeating the same weak logic.”
+ “I prefer explanations that use correct class–subclass relations (e.g., ‘Latanoprost is a prostaglandin analogue’) and avoid contradictory or reversed ontology statements.”
+ “I prefer explanations that strengthen connections with pharmacologically meaningful links—like shared drug categories—while omitting irrelevant side-effect detours.”
+ “I prefer explanations that highlight key facts—such as drug class labels—only when they add genuine insight, rather than making the rest of the path redundant.”
+ “I prefer explanations that balance mechanistic validity and clarity, achieving a mid-range level of scientific rigor without unnecessary complexity.”
+ “I prefer explanations that avoid redundant superclass additions when class membership is already implicit, and that rely on a well-structured knowledge graph to prevent confusion.”
+ “I prefer explanations that avoid generic class, side-effect, or chemical-similarity shortcuts and instead provide clear mechanistic links; when classification or known drug roles are used, they must add substantive insight rather than tautology.”"
+answer_9;Drug Repurposing;25-34;Life Science–oriented;" “I prefer explanations that add meaningful clinical relevance rather than extra ontological detail, favoring concise yet context-rich versions over overly complex layers.”
+ “I prefer explanations that clearly state a drug’s therapeutic role—rather than merely noting its side effects—and offer coherent hypotheses for treatment efficacy.” 
+“I prefer explanations that explicitly annotate key relations—such as ‘treats?’—to clarify a direct link between a drug and its target disease, instead of hiding it in complex graphs.”
+ “I prefer explanations supported by multiple mechanistic or genetic details to reinforce direct drug–disease links—because shared effects or component types alone don’t guarantee therapeutic equivalence—perhaps supplemented by external data sources like DrugBank.”
+ “I prefer explanations that balance scientific validity with practical relevance, emphasize direct therapeutic links over side-effect consequences, and clearly annotate core relations—such as ‘treats?’—to guide interpretation, even in complex disease contexts.”"
+answer_10;Drug-Target Interaction;25-34;Life Science–oriented;"“I prefer explanations that avoid using clinical syndromes or pseudogene nodes as mechanistic intermediates, focusing instead on well-validated biological mechanisms.”
+“I prefer explanations that include clear literature or experimental citations to support any binding claims between molecules and targets.”
+“I prefer explanations that are scientifically grounded and include credible mechanistic detail throughout.”"
+answer_11;Drug-Target Interaction;25-34;Life Science–oriented;" “I prefer explanations that are both complete and not overly complex.”
+ “I prefer explanations that do not rely on a single shared side effect to justify drug–target binding.”
+ “I prefer explanations that include drug–class diversity to strengthen prediction confidence.”
+ “I prefer explanations that show binding across different but related drug classes to boost trust in the prediction.”
+ “I prefer explanations that highlight when drug and target bind to genes of the same type, as this aids interpretation.”
+ “I prefer explanations that go beyond shared side effects and provide deeper mechanistic justification.” “I prefer explanations that include relevant context—such as shared pharmacological effects on the nervous system—to increase confidence.”
+ “I prefer explanations that supply supplementary details like ontological expansion when they meaningfully bolster prediction confidence.”
+ “I prefer explanations that merge the strengths of multiple variants to create a more complete rationale.”
+ “I prefer explanations that remain concise and clear, avoiding extra details that do not improve understanding.”
+ “I prefer explanations that include additional relevant information when it clearly supports the prediction.”
+ “I prefer explanations that are clear and concise,  avoid weak or reversed logic and include additional classification or contextual details only when they genuinely add value.”"
+answer_12;Drug-Target Interaction;25-34;"Computer Sciense/AI-heavy  with Biomedical Experience	";" “I prefer explanations that use accurate drug indications—like vidarabine’s approved antiviral activity—and avoid confusing or overused ‘causes’ links or weak anchors such as ‘skipped beats’ or ‘back distress.’”
+ “I prefer explanations that emphasize supported ‘binding’ relationships for drug–target connections, avoid vague ‘resembles’ or ‘causes’ links, and only include superclass labels when they add clear value.”
+ “I prefer explanations that avoid ambiguous ‘causes’ relations, highlight dual indications (e.g. bromocriptine’s use in diabetes), and apply ontological layers only when they clarify an otherwise non-obvious link.”
+ “I prefer explanations that replace weak ‘causes’ links with physiologically relevant context—such as cardiac connections—and selectively use terms like ‘calcium channel blocker’ to strengthen understanding.”
+ “I prefer explanations that use precise terms like ‘binds’ instead of ambiguous words like ‘includes,’ and clarify when shared inhibition arises from different mechanisms.”
+ “I prefer explanations that avoid superficial ‘causes’ relations and leverage meaningful pharmacological terms—such as ‘therapeutic glucocorticoid’—to connect drugs via shared mechanisms like inflammation control.”
+ “I prefer explanations that clarify gene–gene relationships explicitly and avoid confusing predicates like ‘participates’ when referring to chemical compounds.”
+ “I prefer ‘binds’ to ‘causes’ for drug–target interactions, and welcome ontological layers when they rescue otherwise nonsensical paths.”
+ “I prefer explanations that avoid ‘includes’ and ‘resembles’ links, instead relying on ontological context to clarify relationships.”
+ “I prefer explanations that omit irrelevant nodes like ‘dependence on opiates’ or ‘heat exhaustion’ and favor multiple coherent paths for completeness.”
+ “I prefer explanations that eliminate vague predicates like ‘causes,’ ‘includes,’ or ‘participates,’ emphasize validated drug-binding mechanisms and meaningful pharmacological terms, and employ ontology only to add clear biomedical grounding.”"
+answer_13;Drug-Target Interaction;25-34;Hybrid Computational-Biology ;" “I prefer explanations that establish clear mechanistic links rather than relying solely on shared symptoms.”
+ “I prefer explanations that go beyond ‘causes’ correlations and offer deeper biological justification.”
+ “I prefer explanation paths grounded in robust mechanisms rather than generic ‘causes’ links.”
+ “I prefer explanations where an ontology layer adds significant clarity—otherwise it isn’t worth including.”
+ “I prefer explanations that leverage subfamily relationships to infer mechanism, while acknowledging inherent uncertainty.”
+ “I prefer explanations that account for variable responses within a drug family, rather than assuming all family members behave identically.”
+ “I prefer explanations that show multiple plausibility factors—shared family binding and additional similarities—even absent direct molecular proof.”
+ “I prefer explanations that combine ‘resembles’ relations with group membership for plausibility, while clearly stating that binding is not guaranteed without supporting data.”
+ “I prefer explanations that highlight how drug type or class membership increases the likelihood of binding, rather than vague generalizations.”
+ “I prefer explanations that establish clear mechanistic or molecular logic, leverage subfamily and chemical-group similarities, and combine ‘resembles’ with relevant group-based links—while acknowledging that class membership alone doesn’t guarantee binding.”"
+answer_14;Drug-Target Interaction;35-49;Hybrid Computational-Biology ;" “I prefer explanations that avoid flawed subgroup-to-group links—such as jumping from ‘lymphatic cancer’—and instead provide clear mechanistic insight tying the drug directly to the relevant disease subset.”
+ “I prefer explanations that go beyond shared side effects by explicitly describing the drug’s mechanistic mode of action when justifying its use.”
+ “I prefer explanations that, while noting drug-class membership, also introduce mechanism-focused connections rather than repeating superclass chains or offering only chemical details.”
+ “I prefer explanations that specify precise mechanistic details—such as the exact type of aplasia or deregulated gene—while avoiding illogical subgroup-to-group transitions and generic chemical tags.”
+ “I prefer explanations that accurately describe drugs as molecular analogs rather than saying they ‘include’ prostaglandins, and that omit irrelevant side effects like iris hyperpigmentation.”
+ “I prefer explanations that detail specific mechanisms—like microtubule inhibition by vinca alkaloids—avoid ambiguous terms such as ‘tumor pain,’ and use clear therapeutic labels like ‘antineoplastic agent.’”
+ “I prefer explanations that distinguish repurposing from existing indications, reference relevant biomarkers and tissue contexts, and avoid restating an approved use.”
+ “I prefer explanations that explicitly name and explain immunosuppressive mechanisms—such as T-cell inhibition—when linking drugs to hematologic cancers, rather than leaving them implicit.”
+ “I prefer explanations that support chemical-class inferences with direct therapeutic parallels—using resemblance to known treatments—rather than adding descriptive classification details without clinical context.”
+ “I prefer explanations that avoid generic class or side-effect–based links, deliver a clear therapeutic rationale tied to mechanism of action, include biological insight—while omitting redundant chemical details.”"
+answer_15;Drug-Target Interaction;35-49;Computer Sciense/AI-heavy  with Biomedical Experience;" “I prefer explanations that identify a definitive, class-revealing link—such as ‘dependence on opiates’—when it clearly establishes the drug’s mechanism or family.”
+“I prefer explanations that provide uniquely informative connections—like ‘dependence on opiates’—over vague or redundant links that fail to clarify drug class or mechanism.”"

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-07-04T15:17:13.547788",
+  "total_users": 15,
+  "chosen_k": 2,
+  "persona_counts": {
+    "Persona 1": 13,
+    "Persona 2": 2
+  },
+  "outlier_count": 0,
+  "selection_criteria": {
+    "chosen_k": 2,
+    "silhouette_candidates": [
+      2
+    ],
+    "elbow_k": 3,
+    "db_best_k": 4,
+    "ch_best_k": 2,
+    "majority_support": true,
+    "silhouette_threshold": 0.25740492045879365,
+    "max_silhouette": 0.2860054671764374
+  }
+}
